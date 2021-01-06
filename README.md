@@ -4,6 +4,7 @@ at completing the maze. Then every bot is sent back to the start and their netwo
 with the highest fitness. 
 
 This app uses MultiNEAT and Boost.
+
 https://github.com/peter-ch/MultiNEAT.
 
 https://github.com/boostorg.
