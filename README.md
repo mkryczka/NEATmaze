@@ -7,9 +7,13 @@ This app uses MultiNEAT and Boost.
 https://github.com/peter-ch/MultiNEAT.
 https://github.com/boostorg.
 
+
 One bot is controlled by the player, but this does not affect the algorithm.
 
 Arrow keys to control player
+
 Space bar to end round
+
 Del key to reset population
+
 Esc to exit game
