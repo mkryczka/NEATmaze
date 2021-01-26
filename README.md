@@ -3,7 +3,7 @@ and at the end of every round their respective fitness scores are calculated. Th
 at completing the maze. Then every bot is sent back to the start and their networks are adjusted to be similar to the networks 
 with the highest fitness. 
 
-Video demo: https://imgur.com/a/A5U3cxN
+Video demo: https://i.imgur.com/IxswBlJ.mp4
 
 This app uses MultiNEAT, SFML, and Boost.
 
